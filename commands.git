@@ -1,0 +1,5 @@
+cloner un repository : git clone adresse git
+les 3 commandes de push (se mettre dans le document cloné): 
+- git add .
+- git commit -m "note"
+- git push
