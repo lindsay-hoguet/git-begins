@@ -4,5 +4,5 @@ les 3 commandes de push (se mettre dans le document cloné):
 - git commit -m "note"
 - git push
 pull : git pull origin main
-créer une branche : git branch nom de la branche ou git checkout -b nom de la branche, puis pull pour mettre à jour
+créer une branche : git branch nom de la branche ou git checkout -b nom de la branche, puis push pour mettre à jour
 basculer vers la branche : git checkout nom de la branche
